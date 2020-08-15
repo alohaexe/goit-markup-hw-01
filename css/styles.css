@@ -29,11 +29,9 @@ body {
 .header {
   display: flex;
   align-items: center;
-  height: 80px;
   background: #ffffff;
 }
 
 .article-header {
-  margin: 0px;
   display: none;
 }
