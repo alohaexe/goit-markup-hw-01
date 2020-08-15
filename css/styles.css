@@ -1,0 +1,39 @@
+body {
+  background: rgb(221, 139, 15);
+  width: 1600px;
+  margin: auto;
+}
+
+.logo-main,
+.logo-footer {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+}
+
+.logo-main {
+  color: #000000;
+}
+
+.logo-web {
+  color: #2196f3;
+}
+
+.logo-footer {
+  color: #ffffff;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  height: 80px;
+  background: #ffffff;
+}
+
+.article-header {
+  margin: 0px;
+  display: none;
+}
